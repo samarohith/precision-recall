@@ -1,0 +1,2 @@
+Memory used: 781.355 MB
+Total Time Taken: 430111 milliseconds
